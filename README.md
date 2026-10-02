@@ -22,9 +22,9 @@ Also: Sidekiq, Redpanda, RSpec, RuboCop, RubyCritic
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-106%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,48 +67,48 @@ Sunday                   1160 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Ruby                     13 hrs 2 mins       ████████████████░░░░░░░░░   64.02 % 
-C#                       2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-YAML                     2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Ruby                     13 hrs 6 mins       █████████████████░░░░░░░░   69.74 % 
+YAML                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+C#                       1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 37 mins      █████████████████░░░░░░░░   66.95 % 
-Claude Code              6 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.05 % 
+VS Code                  12 hrs 59 mins      █████████████████░░░░░░░░   69.15 % 
+Claude Code              5 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.85 % 
 
 🐱‍💻 Projects: 
-sitory                   14 hrs 44 mins      ██████████████████░░░░░░░   72.39 % 
-store-backoffice-service 2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-mobilesupport-service    1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-storeops-service-legacy  1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-swarm                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+sitory                   14 hrs 30 mins      ███████████████████░░░░░░   77.21 % 
+store-backoffice-service 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+storeops-service-legacy  59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+swarm                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+RofinAndreven            12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 💻 Operating System: 
-Mac                      20 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 6 mins (49.62%)
+⏱ AI Coding Time: 8 hrs 30 mins (45.27%)
 
-✍️ 4,956 lines written by AI, 1,206 lines written by hand (80.43% AI-written)
+✍️ 3,511 lines written by AI, 1,203 lines written by hand (74.48% AI-written)
 
-🔤 2,681,207 Input Tokens, 626,326 Output Tokens
+🔤 2,795,289 Input Tokens, 556,191 Output Tokens
 
-💵 $50.37 Estimated AI Cost This Week
+💵 $40.85 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 214 AI Prompts
+🧠 26 AI Sessions, 191 AI Prompts
 
-Opus                     5,303 lines         █████████████████████████   100.00 % 
+Opus                     3,640 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.43% of written lines came from AI
-📝 Concise Prompter — average 261 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 28.5% of changed lines were hand-edited
+🤖 AI-Driven — 74.48% of written lines came from AI
+📝 Concise Prompter — average 274 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 36.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -128,7 +128,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RofinAndreven/RofinAndreven/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 17:26:04 UTC
+ Last Updated on 02/10/2026 21:22:29 UTC
 <!--END_SECTION:waka-->
 
 ## Connect
