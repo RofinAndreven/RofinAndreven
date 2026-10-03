@@ -19,6 +19,14 @@ Also: Sidekiq, Redpanda, RSpec, RuboCop, RubyCritic
 - 🌱 Exploring Go
 - 🌐 Putting together a personal portfolio site (Next.js)
 
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RofinAndreven/RofinAndreven/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RofinAndreven/RofinAndreven/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/RofinAndreven/RofinAndreven/output/pacman-contribution-graph.svg">
+</picture>
+
 ## Coding Activity
 
 <!--START_SECTION:waka-->
