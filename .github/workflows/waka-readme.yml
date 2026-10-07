@@ -14,6 +14,11 @@ jobs:
       - uses: anmol098/waka-readme-stats@4db28e08bfd8bac570125799fe1cfdcb23a8c871  # master as of 2026-10-03
         env:
           INPUT_GH_USER: ${{ github.repository_owner }}
+          # The action clones via https://<token>@github.com, which only works for PATs.
+          # GITHUB_TOKEN needs the x-access-token username, so rewrite the URL in git.
+          GIT_CONFIG_COUNT: "1"
+          GIT_CONFIG_KEY_0: url.https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/.insteadOf
+          GIT_CONFIG_VALUE_0: https://${{ secrets.GITHUB_TOKEN }}@github.com/
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
