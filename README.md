@@ -36,19 +36,19 @@ Also: Sidekiq, Redpanda, RSpec, RuboCop, RubyCritic
 
 ```text
 💬 Programming Languages: 
-Ruby                     9 hrs 48 mins       ██████████████░░░░░░░░░░░   54.83 % 
-C#                       2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Markdown                 2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-YAML                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Ruby                     9 hrs               ████████████░░░░░░░░░░░░░   46.58 % 
+C#                       3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Markdown                 2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+YAML                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 45 mins      ████████████████░░░░░░░░░   65.77 % 
-Claude Code              6 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   34.23 % 
+VS Code                  13 hrs 45 mins      ██████████████████░░░░░░░   71.08 % 
+Claude Code              5 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   28.92 % 
 ```
 
 
- Last Updated on 18/10/2026 19:04:10 UTC
+ Last Updated on 19/10/2026 21:17:58 UTC
 <!--END_SECTION:waka-->
 
 ## Connect
