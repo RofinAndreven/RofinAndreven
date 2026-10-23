@@ -30,25 +30,26 @@ Also: Sidekiq, Redpanda, RSpec, RuboCop, RubyCritic
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2053%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Ruby                     11 hrs 18 mins      ██████████████░░░░░░░░░░░   56.54 % 
-YAML                     2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-C#                       2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-JSON                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Ruby                     12 hrs 5 mins       ██████████████░░░░░░░░░░░   55.90 % 
+YAML                     3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+C#                       2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+JSON                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Other                    1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 20 mins      ██████████████████████░░░   86.62 % 
-Claude Code              2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+VS Code                  18 hrs 2 mins       █████████████████████░░░░   83.38 % 
+Claude Code              3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Copilot CLI              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 
- Last Updated on 22/10/2026 20:21:12 UTC
+ Last Updated on 23/10/2026 20:09:09 UTC
 <!--END_SECTION:waka-->
 
 ## Connect
