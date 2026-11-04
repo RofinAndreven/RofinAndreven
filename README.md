@@ -30,6 +30,8 @@ Also: Sidekiq, Redpanda, RSpec, RuboCop, RubyCritic
 ## Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2047%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -47,7 +49,7 @@ Copilot CLI              6 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 03/11/2026 22:08:29 UTC
+ Last Updated on 04/11/2026 22:16:54 UTC
 <!--END_SECTION:waka-->
 
 ## Connect
